@@ -1,0 +1,630 @@
+doc_name,name_last,name_first,cpso,gender,languages_spoken,address,lat,lng,phone,fax
+"Braganza, David Andrew",Braganza,David Andrew,114194,Male,"English, French","75 Spring St
+Almonte ON K0A 1A0",45.2295156,-76.1883786,NA,NA
+"Dawson, Charlotte Marie",Dawson,Charlotte Marie,113163,Female,English,"Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Doobay, Jaya Suchitra",Doobay,Jaya Suchitra,84875,Female,English,"Carleton Place & District Memorial
+Hospital
+211 Lake Avenue East
+Carleton Place ON K7C 1J4",45.1409841,-76.1366808,NA,NA
+"Forbes, Eleanor Melissa",Forbes,Eleanor Melissa,84927,Female,English,"Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Fortune, Melanie Kathleen",Fortune,Melanie Kathleen,112231,Female,English,"Ottawa Valley Family Health Team
+95 Spring St
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Harvey, Brandon Garry Raymond",Harvey,Brandon Garry Raymond,114876,Male,"English, French","Ottawa Valley Family Health Team
+95 Spring St
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"McKillop, Graeme John",McKillop,Graeme John,68802,Male,English,"Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Milko, Christopher Jordan",Milko,Christopher Jordan,106226,Male,English,"Ottawa Valley Family Health Team
+95 Spring St
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Prudhoe, Christine Ann",Prudhoe,Christine Ann,112027,Female,English,"95 Spring Street
+Almonte ON K0A 1A0",45.2284081,-76.1896777,NA,NA
+"Quackenbush, Susie Jean",Quackenbush,Susie Jean,70724,Female,English,"Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Rossi, Marisa Beatrice Maria",Rossi,Marisa Beatrice Maria,101069,Female,"English, French, Italian","Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Rytwinski, Zdzislaw Cecil Stanley",Rytwinski,Zdzislaw Cecil Stanley,28505,Male,English,"Ottawa Valley family Health Team
+95 Spring St
+Box 460
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Simkin, Sarah Rachel",Simkin,Sarah Rachel,76355,Female,"English, French","Almonte General Hospital
+75 Spring Street
+Almonte ON K0A 1A0",45.2289078,-76.1894732,NA,NA
+"Song, Belle",Song,Belle,105979,Female,"English, Mandarin","Ottawa Valley Family Health Team
+95 Spring St
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Stewardson, Julie Anne",Stewardson,Julie Anne,86591,Female,English,"95 Spring St
+Almonte ON K0A 1A0",45.2284081,-76.1896777,NA,NA
+"Tiffany, Matthew Trevor",Tiffany,Matthew Trevor,105128,Male,English,"Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Toderian, Amy Beverley",Toderian,Amy Beverley,105896,Female,English,"95 Spring St
+Almonte ON K0A 1A0",45.2284081,-76.1896777,NA,NA
+"Turcotte, Karen Elizabeth",Turcotte,Karen Elizabeth,90933,Female,English,"Ottawa Valley Family Health Team
+95 Spring Street
+Almonte ON K0A 1A0",45.2290617,-76.1875319,NA,NA
+"Wood, Carolyn Elizabeth",Wood,Carolyn Elizabeth,85090,Female,"English, French","Almonte General Hospital
+75 Spring Street
+Almonte ON K0A 1A0",45.2289078,-76.1894732,NA,NA
+"Boyd, Erin Margaret Rose",Boyd,Erin Margaret Rose,99040,Female,English,"Carleton Place Hospital
+211 Lake Ave E
+Carleton Place
+Ottawa ON K1A 1A0",45.1409841,-76.1366808,NA,NA
+"Ahearn, Micayla Jean",Ahearn,Micayla Jean,117309,Female,English,"Bancroft Family Health Team
+19 Oak Street
+Bancroft ON K0L 1C0",45.0537399,-77.8636587,NA,NA
+"Blanchard, Eric Alexandre",Blanchard,Eric Alexandre,106233,Male,English,"Bancroft Family Health Team
+19 Oak Street
+Bancroft ON K0L 1C0",45.0537399,-77.8636587,NA,NA
+"Brown, Carolyn Jane",Brown,Carolyn Jane,57342,Female,English,"Bancroft Professional Centre
+19 oak st
+Box 578
+Bancroft ON K0L 1C0",45.0537399,-77.8636587,NA,NA
+"Coleby, Jillian Lindsay",Coleby,Jillian Lindsay,109333,Female,English,"1-H Manor Lane
+Bancroft ON K0L 1C0
+ Ext. 6229",45.0551841,-77.8641876,NA,NA
+"Ferreira, Alexander Mina",Ferreira,Alexander Mina,96189,Male,English,"Bancroft Family Health Team
+16 Billa Street
+Bancroft ON K0L 1C0",45.0555226,-77.8491589,NA,NA
+"Fransky, Melissa Kathleen",Fransky,Melissa Kathleen,92955,Female,English,"Bancroft Family Health Team
+P O Box 578
+19 Oak Street
+Bancroft ON K0L 1C0",45.0537399,-77.8636587,NA,NA
+"Gerasimoff, Jennifer Elaine",Gerasimoff,Jennifer Elaine,103173,Female,English,"Bancroft Family Health Team
+19 Oak Street, Box 1089
+Bancroft ON K0L 1C0",45.0537399,-77.8636587,NA,NA
+"Griffin, Steven Richard",Griffin,Steven Richard,82923,Male,English,"19 Oak Street
+Bancroft ON K0L 1C0",45.053783,-77.8635601,NA,NA
+"Heavens, Jason Pernell",Heavens,Jason Pernell,71580,Male,"English, French","Quinte Healtcare North Hastings
+1 H Manor Lane
+Bancroft ON K0L 1C0",45.0551841,-77.8641876,NA,NA
+"Keila, Parambir Singh",Keila,Parambir Singh,95800,Male,English,"Quinte Health Care
+Emergency Department
+1-H Manor Lane
+Bancroft ON K0L 1C0
+ Ext. 6229",45.0551841,-77.8641876,NA,NA
+"Noltie, Dayna Kareen",Noltie,Dayna Kareen,113637,Female,English,"16 Billa Street
+Bancroft ON K0L 1C0
+ Ext. 245",45.0555226,-77.8491589,NA,NA
+"White, Ashley Faye",White,Ashley Faye,106048,Female,English,"Bancroft Community FHT
+16 Billa Street
+Bancroft ON K0L 1C0
+ Ext. 259",45.0537399,-77.8636587,NA,NA
+"Adams, Rachael Elizabeth",Adams,Rachael Elizabeth,89361,Female,English,"West Carleton Family Health Team
+Box 218
+119 Langstaff Drive
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Bruce, Barry Wesley",Bruce,Barry Wesley,25634,Male,English,"119 Langstaff Drive
+Carp ON K0A 1L0",45.345462,-76.031865,NA,NA
+"Ciechanska, Ewa",Ciechanska,Ewa,82775,Female,"English, Polish","West Carleton Family Health Centre
+119 Langstaff Drive
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Connell, Amanda Elizabeth",Connell,Amanda Elizabeth,71162,Female,English,"West Carleton Family Health Team
+P O Box 218
+119 Langstaff Drive
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Dionne, Jeanette Angela Clark",Dionne,Jeanette Angela Clark,67995,Female,English,"Box 218
+119 Langstaff Drive
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Ferguson, Karen Elizabeth",Ferguson,Karen Elizabeth,71118,Female,"English, French","West Carleton Family Health Team
+119 Langstaff Drive
+P O Box 218
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Fraser, Mark Allan",Fraser,Mark Allan,50589,Male,English,"West Carleton Medical Centre
+119 Langstaff Road
+P O Box 218
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Lawler, Michelle Christine",Lawler,Michelle Christine,70662,Female,English,"West Carleton Medical Center
+119 Langstaff Drive
+P O Box 218
+Carp ON K0A 1L0
+ Ext. 140",45.3454298,-76.0316616,NA,NA
+"McBride, Kathryn Lee",McBride,Kathryn Lee,71437,Female,English,"119 Langstaff Drive
+Carp ON K0A 1L0",45.345462,-76.031865,NA,NA
+"Rosenkrantz, Alicia Hazel",Rosenkrantz,Alicia Hazel,32242,Female,English,"West Carleton Medical Centre
+Box 218
+119 Langstaff Drive
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Stecher, Robert Dolf",Stecher,Robert Dolf,92694,Male,"Afrikaans, English","West Carleton Family Health Organiz
+119 Langstaff Drive
+Box 218
+Carp
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Tonon, Kristen Annmarie",Tonon,Kristen Annmarie,73512,Female,English,"West Carleton Medical Centre
+119 Langstaff Drive
+P O Box 218
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Vigneron, Eugene Anthony",Vigneron,Eugene Anthony,65407,Male,English,"West Carleton Family Health Team
+Box 218
+119 Langstaff Drive
+Carp ON K0A 1L0",45.3454298,-76.0316616,NA,NA
+"Dumas, Matthew George",Dumas,Matthew George,96319,Male,English,"Lakelands Family Health Team
+12357 Highway 41
+R.R # 1
+Northbrook ON K0H 2G0",44.7383117,-77.1610794,NA,NA
+"Tobia, Bernard",Tobia,Bernard,54821,Male,English,"Rural Route 1
+12357 HWY 41
+Northbrook ON K0H 2G0",44.7383505,-77.1610168,NA,NA
+"Jennings, Tara Joy",Jennings,Tara Joy,124623,Female,English,"PO Box 331
+Dunrobin ON K0A1T0
+ Ext. Ext 105",45.4222567,-76.020319,NA,NA
+"Ali, Hadeel Hadi",Ali,Hadeel Hadi,118473,Female,"Arabic, English","Kanata Mews Clinic
+suite 109
+329 March Rd
+Kanata ON K2K 2E1",45.335437,-75.908447,NA,NA
+"Caskey, Elizabeth Rosemary Bernice",Caskey,Elizabeth Rosemary Bernice,73166,Female,English,"Kanata North Medical Centre
+832 March Road
+Kanata ON K2W 0C9",45.3566005,-75.9335042,NA,NA
+"Ceapchi, Nora Cozmina",Ceapchi,Nora Cozmina,76322,Female,"English, Romanian","Unit 2
+832 March Road
+Kanata ON K2W 0C9",45.3566005,-75.9335042,NA,NA
+"Connelly, Brendan Bernard",Connelly,Brendan Bernard,77459,Male,"English, French","Unit 2
+832 March Road
+Kanata ON K2W 0C9",45.3566005,-75.9335042,NA,NA
+"Daverne, Heather Lee",Daverne,Heather Lee,94993,Female,English,"ActiveCare Medical Clinic
+51 The Parkway
+Kanata ON K2K 1T1",45.3225683,-75.901184,NA,NA
+"Hegmann, Erik Joseph",Hegmann,Erik Joseph,70394,Male,English,"737 Silver Seven Road
+Suites 8 & 9
+Kanata ON K2V 0H3",45.3014946,-75.9133354,NA,NA
+"Kasbia, Sukhvinder Singh",Kasbia,Sukhvinder Singh,74326,Male,"English, Panjabi/Punjabi","Suite 101
+6501 Campeau Drive
+Kanata ON K2K 3E9",45.3143823,-75.9096649,NA,NA
+"Kehoe, Shannon Brigid",Kehoe,Shannon Brigid,94947,Female,English,"51 The Parkway
+Kanata ON K2K 1T1",45.3225891,-75.9011672,NA,NA
+"Krupa, Andrea Michaela Eva",Krupa,Andrea Michaela Eva,77467,Female,"English, French, Slovak","Unit 2
+832 March Road
+Kanata ON K2W 0C9",45.3566005,-75.9335042,NA,NA
+"Lojpur, Tanja",Lojpur,Tanja,114988,Female,English,"51 The Parkway
+Kanata ON K2K 1T1",45.3225891,-75.9011672,NA,NA
+"Lovett, Patricia Julie",Lovett,Patricia Julie,73377,Female,"English, French","Suite 210
+308 Palladium Drive
+Kanata ON K2V 1A1",45.3007066,-75.9091947,NA,NA
+"MacIntosh, Bernard Hugh Williams",MacIntosh,Bernard Hugh Williams,111789,Male,English,"1108 Klondike Road
+Kanata ON K2K 0G1",45.3542789,-75.9337181,NA,NA
+"McBride, Michelle Ann",McBride,Michelle Ann,79107,Female,English,"Unit 2
+832 March Road
+Kanata ON K2W 0C9",45.3566005,-75.9335042,NA,NA
+"Motz, Catherine Marie",Motz,Catherine Marie,68232,Female,English,"Suite 210
+308 Palladium Drive
+Kanata ON K2V 1A1",45.3007066,-75.9091947,NA,NA
+"Mykytyshyn, Christopher Ivan Edward",Mykytyshyn,Christopher Ivan Edward,109083,Male,English,"Active Care Medical Group
+51 The Parkway
+Kanata ON K2K 1T1",45.3225683,-75.901184,NA,NA
+"Ozard, Jennifer Gail",Ozard,Jennifer Gail,80927,Female,English,"Ruddy Shenkman Hospice
+110 McCurdy Drive
+Kanata ON K2L 2Z6",45.2999183,-75.9014989,NA,NA
+"Powell, Barbara Maria",Powell,Barbara Maria,30315,Female,"English, French","6 Reaney Court
+Kanata,
+Ontario, Canada
+Kanata ON K2K 1W8",45.3209422,-75.9009639,NA,NA
+"Sannoufi, Hassan",Sannoufi,Hassan,81658,Male,"Arabic, English, Russian","La Vie Health Centre
+Suite 150
+525 Legget Drive
+Kanata ON K2K 2W2",45.3481636,-75.9183197,NA,NA
+"Shestopalova, Anna",Shestopalova,Anna,117856,Female,English,"1108 Klondike Rd
+Kanata ON K2K 0G1",45.3542789,-75.9337181,NA,NA
+"Smith, Paula Christine",Smith,Paula Christine,91963,Female,English,"Kanata North Medical Centre
+832 March Road
+Kanata ON K2W 0C9",45.3566005,-75.9335042,NA,NA
+"Starosta, Philippe Elie",Starosta,Philippe Elie,60514,Male,"English, French","Kanata North Medical Centre
+832 March Road
+Kanata ON K2W 0C6",45.3566005,-75.9335042,NA,NA
+"Sullivan, Patrick Joseph",Sullivan,Patrick Joseph,86168,Male,"English, French","Palladium Medical Clinic
+210-308 Palladium Drive
+Kanata ON K2V 1A1",45.3007066,-75.9091947,NA,NA
+"Tan, Elvin Yan-Zhang",Tan,Elvin Yan-Zhang,100224,Male,English,"Active Care Medical Centre
+Unit A
+1108 Klondike Road
+Kanata ON K2K 0G1",45.3536284,-75.9326,NA,NA
+"Brooks, Jennifer Ashley",Brooks,Jennifer Ashley,101046,Female,English,"ConnectWell Community
+Health Centre - Lanark Site
+207 Robertson Drive
+Lanark ON K0G 1K0",45.0230903,-76.378746,NA,NA
+"Carver, Cynthia Ann",Carver,Cynthia Ann,25738,Female,English,"R R 2
+639 Herron Mills Road
+Lanark ON K0G 1K0",45.0625474,-76.3931636,NA,NA
+"Gruder, Alicja Natalia",Gruder,Alicja Natalia,83975,Female,"English, Polish","North Lanark County
+Community Health Centre
+207 Robertson Drive
+Lanark ON K0G 1K0",45.0230903,-76.378746,NA,NA
+"Wahay, Leigh Rose",Wahay,Leigh Rose,73636,Female,English,"North Lanark County CNC
+207 Robertson Road
+Lanark ON K0G 1K0",45.0230903,-76.378746,NA,NA
+"Gushe, Leonard David",Gushe,Leonard David,60981,Male,English,"217 Turcotte Park Road
+Mattawa Hospital
+Mattawa ON P0H 1V0",46.3108571,-78.713252,NA,NA
+"Makuch, Patricia Ann",Makuch,Patricia Ann,66814,Female,English,"Mattawa Hospital
+217 Turcotte Park Road
+Mattawa ON P0H 1V0",46.3108571,-78.713252,NA,NA
+"Redhead, Clint Anthony",Redhead,Clint Anthony,58447,Male,English,"Mattawa Medical Clinic
+217 Turcotte Park Rd.
+Box 70
+Mattawa ON P0H 1V0",46.3108571,-78.713252,NA,NA
+"Wilkins, Mark Alexander",Wilkins,Mark Alexander,32363,Male,English,"Mattawa Family Medicine
+Clinic
+Box 328
+217 Turcotte Park Road
+Mattawa ON P0H 1V0",46.3108571,-78.713252,NA,NA
+"Williams, Bryan Edward",Williams,Bryan Edward,60817,Male,English,"217 TURCOTTE PARK ROAD
+PO BOX 860
+Mattawa ON P0H 1V0
+ Ext. (None)",46.3110936,-78.7134417,NA,NA
+"Purdy, Jennifer Lynn",Purdy,Jennifer Lynn,89538,Female,"English, French","591 March Rd Unit 9
+Ottawa ON K2K 2M5",45.3473338,-75.9240293,NA,NA
+"Tam, Peter",Tam,Peter,63165,Male,English,"Lakeland Family Health Team
+Rural Route 1
+Northbrook ON K0H 2G0",44.7383117,-77.1610794,NA,NA
+"Al-Hindawi, Asaad Adil Ibrahim",Al-Hindawi,Asaad Adil Ibrahim,98534,Male,"Arabic, English","McNeely Medical Clinic
+455 Mcneely Avenue
+Carleton Place ON K7C 4S6",45.1339166,-76.1213633,NA,NA
+"Balon, Jeffrey William",Balon,Jeffrey William,67612,Male,English,"1538 Stittsville Main Street
+Stittsville ON K2S 1B1",45.2572151,-75.9199477,NA,NA
+"Cupsa, Andreea",Cupsa,Andreea,76539,Female,"English, Hungarian, Romanian","Unit A
+1108 Klondike Road
+Ottawa ON K2K 0G1",45.3542789,-75.9337181,NA,NA
+"Dawson, Susan Patricia",Dawson,Susan Patricia,65376,Female,English,"51The Parkway
+Ottawa ON K2K 1T1",45.3225891,-75.9011672,NA,NA
+"Frankovich, Renata Jennifer",Frankovich,Renata Jennifer,67859,Female,English,"Medsport Ottawa
+Suite 300
+320 March Road
+Ottawa ON K2K 2E3",45.3353698,-75.9062764,NA,NA
+"Neskovic, Svetlana",Neskovic,Svetlana,85119,Female,"English, Serbian","Active Care Medical Clinic Kanata
+1108 Klondike Road
+Ottawa ON K2K 1X7",45.3536284,-75.9326,NA,NA
+"Perry, Joanne Marie",Perry,Joanne Marie,59042,Female,"English, French","Stittsville Medical Centre
+Unit 1
+1339 Stittsville Main Street
+Stittsville ON K2S 1C6",45.2645696,-75.9273479,NA,NA
+"Snelling, Carolyn Margaret Hubert",Snelling,Carolyn Margaret Hubert,86524,Female,English,"Stittsville Medical Centre
+P O Box 1030
+1339 Stittsville Main Street.
+Stittsville ON K2S 1B2",45.2645696,-75.9273479,NA,NA
+"Spacek, Katerina Bianca",Spacek,Katerina Bianca,88701,Female,English,"1250 Stittsville Main Street
+Box 85033
+Ottawa ON K2S 1X6
+ Ext. 107",45.2683251,-75.9311153,NA,NA
+"Trang, Nguyen",Trang,Nguyen,77389,Female,"English, French, Vietnamese","1108 Klondike Road
+Ottawa ON K2K 0G1",45.3542789,-75.9337181,NA,NA
+"Vickery, Simon Redmond William",Vickery,Simon Redmond William,109899,Male,English,"ActiveCare Medical Clinic
+1108 Klondike Rd
+Ottawa ON K2K 0G1",45.3536284,-75.9326,NA,NA
+"Chadha, Neel Gagan",Chadha,Neel Gagan,100527,Male,English,"240 Gore Street East
+Perth ON K7H 1K9",44.8908735,-76.2398011,NA,NA
+"Charenko, Michael Scott",Charenko,Michael Scott,112944,Male,English,"Perth Medical Clinic
+14 Isabella Street
+Perth ON K7H 2W6",44.9045707,-76.2531853,NA,NA
+"Cunniffe, Peter Jarlath",Cunniffe,Peter Jarlath,72306,Male,English,"39 Drummond Street West
+Perth ON K7H 2J9",44.9061541,-76.2529044,NA,NA
+"Drummond, Alan John",Drummond,Alan John,31005,Male,English,"20 Drummond Street West
+Perth ON K7H 2J5",44.903714,-76.251871,NA,NA
+"Eberhard, Chandra Emilie",Eberhard,Chandra Emilie,115063,Female,English,"14 Isabella St
+Perth ON K7H 2W6",44.90459,-76.2531312,NA,NA
+"Ferrier, Taylor Edward",Ferrier,Taylor Edward,106919,Male,"English, French","Perth Medical Clinic
+14 Isabella Street
+Perth ON K7H 2W6",44.9045707,-76.2531853,NA,NA
+"Gauthier, Alain",Gauthier,Alain,72823,Male,"English, French","39 Drummond Street West
+Perth ON K7H 2J9",44.9061541,-76.2529044,NA,NA
+"Gutcher, Spencer Thomas",Gutcher,Spencer Thomas,95823,Male,English,"Perth and Smith Falls
+District Hospital
+33 Drummond Street West
+Perth ON K7H 2K1",44.9059693,-76.253017,NA,NA
+"Jechel, Peter",Jechel,Peter,54018,Male,"English, German","Perth Medical Clinic
+14 Isabella Street
+Perth ON K7H 2W6",44.9045707,-76.2531853,NA,NA
+"Joannou, Manuela Helene Elizabeth",Joannou,Manuela Helene Elizabeth,62239,Female,English,"279 Canal Bank Road
+PO Box 20107
+Perth ON K7H 3M6",44.8991805,-76.2290983,NA,NA
+"Kennie, Robin Campbell",Kennie,Robin Campbell,73461,Male,English,"39 Drummond Street West
+Perth ON K7H 2J9",44.9061541,-76.2529044,NA,NA
+"Kruszelnicki, Daniel John",Kruszelnicki,Daniel John,94226,Male,"English, French","The Elliot Street Clinic
+12 Elliot Street
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Kuchinad, Anil",Kuchinad,Anil,99399,Male,English,"12 Elliot Street
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Lai, Marcus Mun Fei",Lai,Marcus Mun Fei,109047,Male,English,"Unit 105
+80 Dufferin Street
+Perth ON K7H3A7",44.9076224,-76.2649133,NA,NA
+"Last, Christine Jennifer",Last,Christine Jennifer,97938,Female,English,"Perth Family Medicine
+39 Drummond Street West
+Perth ON K7H 2J9",44.9062483,-76.2529805,NA,NA
+"Liu, Shawn Yow-Wah",Liu,Shawn Yow-Wah,102954,Male,English,"12 Elliot Street
+Perth ON K7H 3A3
+Canada
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"MacDonald, Alistair Richard",MacDonald,Alistair Richard,115837,Male,"English, French","14 Isabella St
+Perth ON K7H 2W6",44.90459,-76.2531312,NA,NA
+"McGraw, Nicholas Charles Joseph",McGraw,Nicholas Charles Joseph,116301,Male,English,"Perth & Smiths Falls
+District Hospital
+33 Drummond St W
+Perth ON K7H 2K1",44.9059693,-76.253017,NA,NA
+"Neufeld, Troy Mitchell",Neufeld,Troy Mitchell,92956,Male,English,"Perth and Smiths Falls Hospital
+33 Drummond Street West
+Perth ON K7H2K1",44.9059693,-76.253017,NA,NA
+"Oh, Woohyun",Oh,Woohyun,115154,Male,"English, Korean","Tay River Health Centre
+80 Dufferin Street
+Suite 105
+Perth ON K7H 3A7",44.9076224,-76.2649133,NA,NA
+"Popiel, Stephanie Yolande Sophie Anne",Popiel,Stephanie Yolande Sophie Anne,72687,Female,"English, French, Spanish","39 Drummond Street West
+Perth ON K7H 2J9",44.9061541,-76.2529044,NA,NA
+"Riehl, Christina Kathleen",Riehl,Christina Kathleen,109189,Female,English,"The Elliot Street Medical Clinic
+12 Elliot St.
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Seaby, Richard Peter",Seaby,Richard Peter,112595,Male,English,"Tay River Medical Clinic
+80 Dufferin St
+Perth ON K7H3A7",44.9076224,-76.2649133,NA,NA
+"Simpson, James",Simpson,James,106882,Male,English,"The Elliot Street Clinic
+12 Elliot Street
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Taylor, Andrew Mackenzie John",Taylor,Andrew Mackenzie John,98357,Male,"English, French","33 Drummond St W
+Perth ON K7H 2K1",44.9059693,-76.253017,NA,NA
+"Tyrrell, Rachel Ruth",Tyrrell,Rachel Ruth,96877,Female,English,"12 Elliot Street
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Van Noppen, Beth-Anne",Van Noppen,Beth-Anne,65096,Female,English,"12 Elliot St.
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Van Noppen, Boudewijn Johannes",Van Noppen,Boudewijn Johannes,66827,Male,English,"12 Elliot Street
+Perth ON K7H 3A3",44.9103052,-76.2621513,NA,NA
+"Xu, Meng Ying",Xu,Meng Ying,112525,Female,English,"14 Isabella Street
+Perth ON K7H 2W6",44.90459,-76.2531312,NA,NA
+"Yelle, Katie Elizabeth",Yelle,Katie Elizabeth,112030,Female,"English, French","39 Drummond St W
+Perth ON K7H 2J9",44.9061541,-76.2529044,NA,NA
+"Bell, Peter William",Bell,Peter William,21970,Male,English,"Sharbot Lake Family Health Team
+Box 70
+1005 Medical Centre Road
+Sharbot Lake ON K0H 2P0",44.7679293,-76.6907116,NA,NA
+"Cunic, Danny",Cunic,Danny,88925,Male,English,"Sharbot Lake Family Health Team
+1005 Medical Centre Rd
+Sharbot Lake ON K0H 2P0",44.7679293,-76.6907116,NA,NA
+"Chan, Wai Sun",Chan,Wai Sun,99821,Male,"Cantonese, English","Stittsville Medical Centre
+1339 Stittsville Main Street
+Stittsville ON K2S 1C6",45.2645696,-75.9273479,NA,NA
+"Pella Fernandez, Denisse",Pella Fernandez,Denisse,92642,Female,"English, Spanish","Stittsville Medical Clinic
+1251 Stittsville Main St
+Stittsville ON K2S2E5",45.268974,-75.9284036,NA,NA
+"Prokopiak, Allison Brenda",Prokopiak,Allison Brenda,65678,Female,"English, French","Stittsville Medical Centre
+1339 Stittsville Main Street Unit 1
+Stittsville ON K2S 1C6",45.2645696,-75.9273479,NA,NA
+"Sagar, Stephen Peter",Sagar,Stephen Peter,111372,Male,"English, French","Stittsville Medical Centre
+1339 Stittsville Main St.
+Stittsville ON K2S1C6",45.2645696,-75.9273479,NA,NA
+"Krawczyk, Jan Wojciech",Krawczyk,Jan Wojciech,73230,Male,"English, Polish","27 Medical Centre Street
+Whitney ON K0J 2M0",45.4938086,-78.2326026,NA,NA
+"Becker, Jennifer",Becker,Jennifer,89529,Female,English,"Suite 257
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Boersma, Robert",Boersma,Robert,52780,Male,English,"Suite 21
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Fishman, Michael",Fishman,Michael,103843,Male,English,"Room 157
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Fitzsimon, Jonathan",Fitzsimon,Jonathan,103385,Male,"English, Spanish","Primary Health Care Centre
+346 John Street North
+Arnprior ON K7S 2P6",45.441175,-76.353037,NA,NA
+"Garcia, Diego",Garcia Brito,Diego,108021,Male,"English, Spanish","157 - 346 John St N
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Gordon, Willis",Gordon,Willis,26036,Male,English,"346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Kurian, Susan",Kurian,Susan,80515,Female,English,"Suite 257
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"McCarthy, Susanna",McCarthy,Susanna,60414,Female,English,"Suite 154
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Montgomery, Christian",Montgomery,Christian,109126,Male,English,"157-346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Fannon, Megan",Fannon,Megan,109598,Female,English,"104-16 Edward St S
+Arnprior ON K7S 3W4",45.4326868,-76.3646398,NA,NA
+"Nejad, M",Hosseini Nejad,M,102197,Male,"English, Farsi","Suite 157
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Padeanu, Florin",Padeanu,Florin,117293,Male,English,"Arnprior and District Family Health
+104-16 Edward St, S
+Arnprior ON K7S 3W4",45.441175,-76.353037,NA,NA
+"Ridgen, Julie",Ridgen,Julie,117268,Female,"English, French","Dr. J Ridgen & Dr. F Padeanu
+104-16 Edward Street
+Arnprior ON K7S 3W4",45.4326868,-76.3646398,NA,NA
+"Rivington, Jennifer",Rivington,Jennifer,61877,Female,English,"Suite 54
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Schriver, Christine",Schriver,Christine,63394,Female,English,"Suite 155
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Suzuki, Aya",Suzuki,Aya,81016,Female,English,"Suite 257
+346 John Street North
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Yau, Janice",Yau,Janice,109294,Female,English,"Arnprior and District FHT
+Suite 157, 346 John St N
+Arnprior ON K7S 2P6",45.441175,-76.353037,NA,NA
+"Zadow, Chris",Zadow,Chris,109423,Male,English,"Suite 157 346 John St N
+Arnprior ON K7S 2P6",45.4414338,-76.352972,NA,NA
+"Ostapowicz, Teresa",Ostapowicz,Teresa,120575,Female,"English, Polish","21 St. Francis Memorial Dr.
+Barrys Bay ON K0J1B0
+ Ext. 2",45.4819975,-77.6946216,NA,NA
+"Ostapowicz, Daniel",Ostapowicz,Daniel,120576,Male,"English, Polish","21 St. Francis Memorial Dr.
+Barrys Bay ON K0J1B0
+ Ext. 2",45.4819975,-77.6946216,NA,NA
+"Chen, Steven",Chen,Steven,106962,Male,"Chinese, English","St. Francis Health Centre
+21 St. Francis Memorial Drive
+Barrys Bay ON K0J 1B0
+ Ext. 1",45.4819975,-77.6946216,NA,NA
+"Dawes, Charles",Dawes,Charles,29681,Male,English,"21 St Francis Memorial Drive
+P.O Box 850
+Barrys Bay ON K0J 1B0",45.4822727,-77.6946785,NA,NA
+"Malinowski, Jason",Malinowski,Jason,73613,Male,English,"St. Francis Memorial Hospital
+21 St Francis Memorial Drive
+Box 130
+Barrys Bay ON K0J 1B0",45.4819975,-77.6946216,NA,NA
+"Meeking, Melissa",Meeking,Melissa,104434,Female,English,"St Francis Health Centre
+21 St Francis Memorial Dr
+PO Box 9
+Barrys Bay ON K0J 1B0
+ Ext. 6",45.4819975,-77.6946216,NA,NA
+"Daniel, Angus",Daniel,Angus,76543,Male,English,"Whitewater Bromley Community
+Health Centre
+20 Robertson Drive
+Beachburg ON K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Fantin, Tania",Fantin,Tania,105868,Female,English,"20 Robertson Road
+Beachburg ON K0J1C0",45.7264656,-76.8451005,NA,NA
+"Forfar, Katie",Forfar,Katie,89316,Female,English,"Whitewater Bromley CHC
+20 Robertson Drive
+Beachburg ON K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Rheaume, Teri",Rheaume,Teri,58869,Female,"English, French","Whitewater Bromley Community
+Health Centre
+20 Robertson Drive
+Beachburg ON K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Ben Amor, Hanene",Ben Amor,Hanene,92578,Female,"Arabic, English, French","North RENFREW family health team
+117 Banting Drive
+Deep River ON K0J 1P0",46.0913827,-77.4759693,NA,NA
+"Bushby, Barbara",Bushby,Barbara,59486,Female,English,"Maple Lodge
+Unit 115
+54 Ridge Road
+P O Box 2018
+Deep River ON K0J 1P0",46.1024965,-77.489842,NA,NA
+"Corrigan, Gina",Corrigan,Gina,95275,Female,English,"North Renfrew Family Health Team
+117 Banting Drive
+Deep River ON K0J 1P0",46.0913827,-77.4759693,NA,NA
+"Greenfield, Thomas",Greenfield,Thomas,62852,Male,English,"109 Banting Drive
+Suite 3
+Box 1630
+Deep River ON K0J 1P0",46.091339,-77.4760246,NA,NA
+"Kipp, Kathryn",Kipp,Kathryn,95923,Female,English,"North Renfrew Family Health Team
+117 Banting Drive
+Deep River ON K0J 1P0",46.0913827,-77.4759693,NA,NA
+"Mcvey, Terry",McVey,James Terence,55424,Male,English,"12 Alder Crescent
+Deep River ON K0J 1P0",46.1032564,-77.4905769,NA,NA
+"Noulty, Elizabeth",Noulty,Elizabeth,57282,Female,English,"Unit 115 - Maple Lodge
+54 Ridge Road
+Deep River ON K0J 1P0",46.1024965,-77.489842,NA,NA
+"Petrini, Michael",Petrini,Michael,32091,Male,"English, Italian, Japanese","Box 370
+247 Bridge Street
+Eganville ON K0J 1T0",45.5393891,-77.1008867,NA,NA
+"Tiedje, Henry",Tiedje,Ingo Erich Heinrich,26517,Male,English,"Killaloe Medical Center
+R R 2
+45 Mill Street
+Killaloe ON K0J 2A0",45.5511105,-77.4177399,NA,NA
+"Cantin, Sylvie",Cantin,Sylvie,76669,Female,"English, French","201 Deacon st
+Pembroke ON K8A 2J6",45.8137451,-77.1053917,NA,NA
+"Castillo, Heather",Castillo,Heather,87088,Female,English,"201 Deacon Street 2nd floor
+Pembroke ON K8A 2J6",45.8137451,-77.1053917,NA,NA
+"Denis, Rachelle",Denis,Rachelle,99322,Female,English,"315 Pembroke Street East
+Pembroke ON K8A 3K2",45.8277969,-77.1059423,NA,NA
+"Echum, Michelle",Echum,Michelle,103566,Female,"English, French","201 Deacon Street
+2nd Floor, Tower C
+Pembroke
+Pembroke ON K8A 2J6",45.8137451,-77.1053917,NA,NA
+"Gauthier, Todd",Gauthier,Todd,93265,Male,English,"201 Deacon Street
+2nd Floor, Tower C
+Pembroke ON K8A 2J6",45.8137451,-77.1053917,NA,NA
+"Johnson, Richard",Johnson,Richard,98313,Male,English,"201 Deacon Street 2nd Fl. Tower C
+Pembroke ON K8A 2J6",45.8137451,-77.1053917,NA,NA
+"Koudra, Fahamia",Koudra,Fahamia,89489,Female,"English, French","West Champlain Family Health Team
+315 Pembroke Street East
+Pembroke ON K8A 1P5",45.8277969,-77.1059423,NA,NA
+"Lane, Lynsay",Lane,Lynsay,93216,Female,English,"Pembroke Family Medicine
+Teaching Unit
+201 Deacon St, Tower C, 2nd Floor
+Pembroke ON K8A 2J6",45.8137451,-77.1053917,NA,NA
+"Meziane, Hyjar",Meziane,Hyjr,124856,Female,"English, French","315 Pembroke Street East
+Pembroke ON K8A 3K2",45.8277969,-77.1059423,NA,NA
+"Moeck,  Lori",Moeck,Lori,63279,Female,English,"315 Pembroke Street East
+Pembroke ON K8A 3K2",45.8277969,-77.1059423,NA,NA
+"Mushtaq, Muhannad",Mushtaq,Muhammad,113994,Male,English,"West Champlain Family Health Team
+315 Pembrook St E
+Pembroke ON K8A 3K2",45.8277969,-77.1059423,NA,NA
+"Sugeng, Clarissa",Sugeng,Clarissa,106218,Female,English,"315 Pembroke St. E
+Pembroke ON K8A 3K2",45.8277969,-77.1059423,NA,NA
+"Uttley, Steven",Uttley,Steven,82583,Male,"English, French","Real Med Corp
+Family Medical Centre
+101 Joseph Street
+Pembroke ON K8A 8C9",45.8294856,-77.1117689,NA,NA
+"Ng Thow Hing, Roland",Ng Thow Hing,Roland,26452,Male,"Chinese, Creole, English, French","240 Mackay Street
+Pembroke ON K8A 1C5",45.82552,-77.1108,NA,NA
+"Weatherson, Evelyn",Weatherston,Evelyn,30090,Female,English,"141 Lake Street
+Pembroke ON K8A 5L8",45.8266392,-77.1166832,NA,NA
+"Boyle, Stephen",Boyle,Stefan,67980,Male,"English, French","154 Civic Centre Road
+Petawawa ON K8H 3H5
+Canada",45.8935,-77.25681,NA,NA
+"Christinck, Rosemary",Christinck,Rosemary,68100,Female,"English, German","Petawawa Centennial Family
+Health Centre
+154 Civic Centre Road
+Petawawa ON K8H 3H5",45.8934551,-77.2567289,NA,NA
+"Corrigan, Linde",Corrigan,Linde,93544,Female,English,"154 Civic Centre Road
+Petawawa ON K8H 3H5",45.8934996,-77.2568085,NA,NA
+"Laliberte, Serge",Laliberte,Serge,28429,Male,"English, French","154 Civic Centre Road
+Petawawa ON K8H 3H5",45.8934996,-77.2568085,NA,NA
+"Rowan, Declan",Rowan,Declan,85648,Male,English,"Petawawa Centennial Family Hlth Ctr
+154 Civic Centre Road
+Petawawa ON K8H 3H5",45.8934551,-77.2567289,NA,NA
+"Needham, Leslie",Needham,Leslie,98395,Female,"English, French","154 Civic Centre Road
+Petawawa, Ontario
+K8H 3H5",45.89367879,-77.25677632,NA,NA
+"Arcand, Jennifer",Arcand,Jennifer,92847,Female,English,"510 Raglan Street North
+Renfrew ON K7V 1P5",45.4826286,-76.697925,NA,NA
+"Avelino, Tara",Avelino,Tara,101228,Female,English,"100 Health Village Lane
+Renfrew ON K7V 0C3",45.4822731,-76.7004394,NA,NA
+"Blaine, William Christopher",Blaine,William Christopher,90251,Male,English,"Renfrew Victoria Hospital
+499 Raglan Street South
+Renfrew ON K7V 1P6",45.482528,-76.6966868,NA,NA
+"Bodig, Jessica",Bodig,Jessica,96811,Female,English,"510 Raglan Street North
+Renfrew ON K7V 1P5",45.4826286,-76.697925,NA,NA
+"Buxton, Max",Buxton,Max,56326,Male,"English, French, Spanish","Calabogie Medical Centre
+P O Box 40
+Calabogie ON K0J 1H0",45.2997441,-76.7307629,NA,NA
+"Cybulskie, Candice",Cybulskie,Candice,109554,Female,English,"100 Health Village Lane
+Renfrew ON K7V 0C3",45.4822731,-76.7004394,NA,NA
+"Clarke, Allison",Clarke,Allison,80793,Female,English,"Renfrew Victoria Hospital
+510 Raglan Street North
+Renfrew ON K7V 1P5",45.482528,-76.6966868,NA,NA
+"Davis, Kristian",Davis,Kristian,69037,Male,English,"Calabogie Medical Centre
+P O Box 40
+1101 francis st
+Calabogie ON K0J 1H0",45.2997441,-76.7307629,NA,NA
+"Di Paolo, Andrea",Di Paolo,Andrea,80794,Male,"English, French, Italian","510 Raglan Street North
+Renfrew ON K7V 1P5",45.4826286,-76.697925,NA,NA
+"Langlois, Stephanie",Langlois,Stephanie,58368,Female,English,"Renfrew Medical Group
+510 Raglan Street North
+Renfrew ON K7V 1P5",45.4827843,-76.6970135,NA,NA
+"Lavigne, Ron",Lavigne,Ron,22011,Male,"English, French","494 Raglan Street South
+Renfrew ON K7V 1R8",45.4670165,-76.6794177,NA,NA
+"Low, Amanda",Low,Amanda,106576,Female,English,"100 Health Village Lane
+Renfrew ON K7V 0C3",45.4822731,-76.7004394,NA,NA
+"MacDonald, Cathy",Macdonald,Catherine Anne,63674,Female,English,"500 Raglan Street North
+Renfrew ON K7V 1P5",45.4825976,-76.6979519,NA,NA
+"Matosh, John",Matosh,John,58187,Male,English,"500 Raglan Street North
+Renfrew ON K7V 1P5",45.4825976,-76.6979519,NA,NA
+"Nixon, Corey",Nixon,Corey,124586,Male,English,"100 Health Village Lane
+Renfrew ON K7V 0C3",45.4822731,-76.7004394,NA,NA
+"Pinard, Philippe",Pinard,Philippe,96137,Male,"English, French","Renfrew Medical Associates
+510 Raglan Street North
+Renfrew ON K7V 1P5",45.4827843,-76.6970135,NA,NA
+"Radke, Steven",Radke,Steven,77476,Male,English,"510 Raglan Street North
+Renfrew ON K7V 1P5",45.4826286,-76.697925,NA,NA
+"Varrin, Angela",Varrin,Angela,93343,Female,English,"Renfrew Medical Group
+510 Raglan St N
+Renfrew ON K7V 1P5",45.4827843,-76.6970135,NA,NA
+"Wang, Noreen",Wang,Noreen,79017,Female,English,"Main Floor
+510 Raglan Street North
+Renfrew ON K7V 1P5",45.4827843,-76.6970135,NA,NA
+"Greenough, Chelsea",Greenough,Chelsea,NP101,NA,NA,"121 St. Francis Memorial Hospital, Barry’s Bay, ON K0J 1B0",45.4819975,-77.6946216,NA,NA
+"Polatynski, Elizabeth",Polatynski,Elizabeth,NP102,NA,NA,"121 St. Francis Memorial Hospital, Barry’s Bay, ON K0J 1B0",45.4819975,-77.6946216,NA,NA
+"Mackay, Tricia",Mackay,Tricia,NP103,NA,NA,"20 Robertson Drive, Beachburg, ON, K0J 1C0",45.7264656,-76.8451005,NA,NA
+"O'Brien, Kirstie",O'Brien,Kirstie,NP104,NA,NA,"20 Robertson Drive, Beachburg, ON, K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Robertson, Heather",Robertson,Heather,NP105,NA,NA,"20 Robertson Drive, Beachburg, ON, K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Lunney, Tierney",Lunney,Tierney,NP106,NA,NA,"20 Robertson Drive, Beachburg, ON, K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Comeau, Krysti",Comeau,Krysti,NP107,NA,NA,"20 Robertson Drive, Beachburg, ON, K0J 1C0",45.7264656,-76.8451005,NA,NA
+"Valentine, Jessica",Valentine,Jessica,NP108,NA,NA,"49 Mill Street, Killaloe, Ontario, K0J 2A0",45.5504391,-77.4179997,NA,NA
+"Durston, Pat",Durston,Pat,NP109,NA,NA,"154 Civic Centre Road, Petawawa, Ontario K8H 3H5",45.8934996,-77.2568085,NA,NA
+"Krebsz, Heidi",Krebsz,Heidi,NP110,NA,NA,"154 Civic Centre Road, Petawawa, Ontario K8H 3H5",45.8934996,-77.2568085,NA,NA
+"Rowan, Sharon",Rowan,Sharon,NP111,NA,NA,"154 Civic Centre Road, Petawawa, Ontario K8H 3H5",45.8934996,-77.2568085,NA,NA
+"Schimmens, Crystal",Schimmens,Crystal,NP112,NA,NA,"154 Civic Centre Road, Petawawa, Ontario K8H 3H5",45.8934996,-77.2568085,NA,NA
+"Frew, Derek",Frew,Derek,NP113,NA,NA,"1643 Mishomis Inamo, PO Box 86, Pikwakanagan, ON K0J 1X0",45.5756709,-77.2509802,NA,NA
+"Hatchou, Deva",Hatchou,Deva,NP114,NA,NA,"1643 Mishomis Inamo, PO Box 86, Pikwakanagan, ON K0J 1X0",45.5756709,-77.2509802,NA,NA

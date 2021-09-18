@@ -58,25 +58,86 @@ list(
              format = "file"),
   
   # loading the PHH input file
-  tar_target(phh_ott_renfrew,
+  tar_target(phh,
              readr::read_csv(phh_ott_renfrew_file)
   ),
   
+  ## Physician Data
+  
+  tar_target(ott_docs_file,
+             "data/docs_ottawa_mapclean_2021-08-17.csv",
+             format = "file"),
+  
+  tar_target(renfrew_docs_file,
+             "data/docs_renfrew_2021-08-17.csv",
+             format = "file"),
+  tar_target(docs,
+             {
+             ott <- readr::read_csv(ott_docs_file) %>%
+               mutate(cpso = as.character(cpso))
+             ren <- readr::read_csv(renfrew_docs_file)
+             
+             ott %>%
+               select(cpso, lat, lon = lng) %>%
+               bind_rows(ren %>%
+                           select(cpso, lat, lon = lng))
+               }),
+  
   
   ######### ANALYSIS ######################
+  tar_target(test_od_valhalla,
+             {
+               doc_small <- head(docs, 10)
+               phh_small <- head(phh, 1000)
+               
+               valhallr::od_table(froms = phh_small,
+                                  from_id_col = "phh_id",
+                                  tos = doc_small,
+                                  to_id = "cpso",
+                                  hostname = "192.168.2.30"
+                                  ) %>%
+                 write_csv("outputs/csv/test_od_valhalla.csv")
+             }),
   
+  tar_target(od_valhalla_phh,
+             valhallr::od_table(froms = phh,
+                                from_id_col = "phh_id",
+                                tos = docs,
+                                to_id = "cpso",
+                                hostname = "192.168.2.30"
+             ) %>%
+               write_csv("outputs/csv/od_valhalla_phh.csv")
+             ),
   
   ######### FIGURES ######################
   tar_target(simple_phh_plot,
-             phh_ott_renfrew %>%
+            { phh %>%
                sf::st_as_sf(coords = c("lon", "lat"), crs = "WGS84") %>%
              ggplot() +
                ggspatial::annotation_map_tile() +
                geom_sf() +
-               labs(title = "ISE Pseudo-Households in Ottawa and Renfrew County",
-                    subtitle = "Any Type, Population > 0")
+               labs(title = "ISED Pseudo-Households in Ottawa and Renfrew County",
+                    subtitle = "Any Type, Population > 0") } %>%
+               ggsave(plot = .,
+                      filename = "outputs/plots/simple_phh_plot.png")
              ),
   
+  tar_target(test_od_valhalla_plot,
+             {
+               {head(docs, 10) %>%
+                 bind_rows(head(phh, 1000)) %>%
+                 mutate(type = if_else(is.na(cpso), "phh", "cpso")) %>%
+                 select(lat, lon, type) %>%
+                 sf::st_as_sf(coords = c("lon", "lat"), crs = "WGS84") %>%
+                 ggplot() +
+                 ggspatial::annotation_map_tile() +
+                 geom_sf(aes(colour = type))} %>%
+                 ggsave(plot= .,
+                        filename = "outputs/plots/test_od_valhalla_plot.png")
+               
+               
+             }
+  ),
   ######### REPORTS ######################
   
   NULL
